@@ -1,4 +1,4 @@
 # golanginformatika1
 Source Code Golang Untuk Mahasiswa Smester Satu
 Instalasi cukup menggunakan 
-git clone
+git clone https://github.com/sekarsister/golanginformatika1.git
